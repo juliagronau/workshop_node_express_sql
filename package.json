@@ -16,10 +16,11 @@
   "bugs": {
     "url": "https://github.com/juliagronau/workshop_node_express_sql/issues"
   },
-  "homepage": "https://github.com/juliagronau/workshop_node_express_sql#readme",
+  "homepage": "/",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "express-validator": "^6.10.0",
     "pg": "^8.5.1"
   }
 }
